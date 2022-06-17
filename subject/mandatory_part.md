@@ -92,7 +92,7 @@ Devrait être identique à < infile grep a1 | wc -w > outfile
 
 ## Description
 
-### Notes taken while reading [:link:]()
+### Notes taken while reading [:link:](https://github.com/ava8kyoko/42-Pipex/blob/master/subject/notes_references.md)
 
 
 ## References
